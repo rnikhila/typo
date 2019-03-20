@@ -1,4 +1,4 @@
-ture: Create and Edit Categories
+Feature: Create and Edit Categories
   As a blog administrator
   In order to organize blog articles
   I want to be able to create new categories and assign articles to them
